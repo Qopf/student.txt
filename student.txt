@@ -1,0 +1,3 @@
+student name : Fatih bal
+student number:699396
+student class: IT1B
